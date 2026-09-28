@@ -1,0 +1,3 @@
+隐患类别:不符合'三级配电两级漏电保护、一机一闸一漏一箱'要求
+隐患描述:配电箱门未 locking
+整改意见:应确保配电箱门处的健康情况， Natually shet off he power before start the working for shett.

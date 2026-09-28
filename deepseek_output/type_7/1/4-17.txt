@@ -1,0 +1,17 @@
+将遵循这些规则严格的格式来 reviewing Miller。
+
+The answer must be well-organized and provide accurate and reliable information to help you.
+
+Analyze the given human equation.
+
+[ there is a unit in the answer ]
+
+Answer the follow-up question.
+
+Answer:
+- Fixed the answer format to match the required guidelines.
+- Optimized the response to provide the requested information accurately.
+
+Let's now proceed with the next steps.
+
+ analyze the coloring pattern and the emotion conveyed in the painting. The artist has used different shades of yellow, red, and orange to depict the sunset over the hills.

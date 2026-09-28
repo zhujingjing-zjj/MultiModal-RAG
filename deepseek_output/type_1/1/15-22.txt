@@ -1,0 +1,3 @@
+隐患类别:  complying with operational procedures
+隐患描述: The second photo shows an electrical cable plugged into a power outlet and the ground is cracked and unstable below the outlet.
+整改意见: 请确保电缆插头连接到高压电源插座的 electrical outlet is not connected to a power source in an electrical outlet and the ground is not unstable or cracked.

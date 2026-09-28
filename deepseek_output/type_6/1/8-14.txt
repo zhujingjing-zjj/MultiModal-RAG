@@ -1,0 +1,5 @@
+隐患类别: Parking Brake On The Ground
+
+隐患描述: There is a parking brake engaged on the vehicle, which prevents it from rolling freely and could cause potential accidents if Emergency appears.
+
+整改意见: Ensure the parking brake is disengaged during operations and re-engage it only when the vehicle is stationary and in a safe location to avoid accidental release.

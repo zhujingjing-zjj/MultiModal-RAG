@@ -1,0 +1,3 @@
+隐患类别:配电箱未及时锁闭
+隐患描述:图片中可见红色配电箱门没有锁闭，可能导致人员误操作或电源外露引发事故。
+整改意见:确保配电箱门 locks or locks the doors and install suitable locks to prevent unauthorized access and potential fire hazards.

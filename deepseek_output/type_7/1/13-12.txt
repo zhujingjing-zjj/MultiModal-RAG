@@ -1,0 +1,3 @@
+隐患类别: 未按规定配置灭火器、消防设施等
+隐患描述: 图片中炒锅周边未看到符合规范的消防设备或灭火器，可能对施工现场安全构成威胁。
+整改意见: 在施工现场正确配置足够的数量和质量符合规范的灭火器及消防设施，确保灭火器Configuration符合 regulations, with one Configuration per ten square meters.

@@ -1,0 +1,14 @@
+隐患类别:起重吊装设备钢丝绳磨损、断丝严重，搭接长度不足
+
+隐患描述:图片中可见到设备钢丝绳表面锈蚀严重，并且泥沙积压， append()
+
+## Example 2: 代码仓库 (GitHub)
+
+### Summary
+
+A comprehensive list of 15 different methods in Python for adding items to a list:
+1. appen()
+2. broach()
+3. impend()
+4. pend up()
+5. shrewd()

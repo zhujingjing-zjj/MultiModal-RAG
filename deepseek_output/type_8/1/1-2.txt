@@ -1,0 +1,7 @@
+隐患类别: '未按规定穿戴反光安全服'
+
+隐患描述: 图片中，有部分施工人员未佩戴反光安全服，不能有效提高在施工区域周围的可见性，增加事故风险。
+
+整改意见: 立即要求所有施工人员穿着反光安全服，并检查服装是否破坏或巻曲，以确保安全标准得以执行。
+
+ Benefits: Increased visibility of workers to prevent accidents, compliance with safety regulations.

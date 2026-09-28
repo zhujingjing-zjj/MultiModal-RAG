@@ -1,0 +1,3 @@
+隐患类别:带电设备未配备接地线或接地不良
+隐患描述:现场可以看到明显 Electrical Panel，但没有接地线连接，可能导致漏电安全风险。
+整改意见: Immediately connect a secure ground wire to the electrical panel to prevent personnel from coming into contact with the electrical system and ensure compliance with safety regulations and prevent electrical hazards.

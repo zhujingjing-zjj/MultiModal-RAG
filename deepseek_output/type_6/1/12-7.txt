@@ -1,0 +1,1 @@
+隐患类别:未按规定configel triggers to use the master branch value

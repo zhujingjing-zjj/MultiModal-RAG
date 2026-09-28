@@ -1,0 +1,3 @@
+隐患类别:配电箱未及时锁闭
+隐患描述: Outdoor construction site electrical distribution box is not locked or covered
+整改意见: immediately lock or cover the electrical distribution box to ensure safety

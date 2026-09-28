@@ -1,0 +1,3 @@
+隐患类别:灭火器压力不足
+隐患描述:Site storage fire extinguisher is Martian at a critical level.
+整改意见: Increase the pressure of the on-site fire extinguisher to meet the requirements and conduct routine inspections to ensure optimal performance.

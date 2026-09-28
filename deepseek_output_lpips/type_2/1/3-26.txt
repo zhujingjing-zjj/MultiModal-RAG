@@ -1,0 +1,3 @@
+隐患类别:不符合'三级配电两级漏电保护、一机一闸一漏一箱'要求
+隐患描述:配电箱内的纱布遮挡，存在漏电安全隐患。
+整改意见:立即清理灯具和杂物，恢复配电箱的干燥环境，确保配电箱内外部清洁，避免潮湿和杂物 presidential, strict publicity of safety norms, and proper protection of the internal components.

@@ -1,0 +1,5 @@
+隐患类别: 配电箱未及时锁闭
+
+隐患描述: 在图片中可以看到，配电箱未锁闭，存在设备外露和电气安全隐患。
+
+整改意见: 立即Lock紧闭AllElectrical Equipment箱子以防止 unauthorized or accidental access.

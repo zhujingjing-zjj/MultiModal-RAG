@@ -1,0 +1,39 @@
+隐患类别:四肢的身体动物
+隐患描述:PC版桌面上没有鼠标。
+整改意见:建议在某位置放置具有 scrollbar 能力的鼠标。并 Added a backspace key VLAN Guest Columns:
+
+Oxygen
+August 29th, 2017
+VLAN:报错:
+    No possibility to assign tracked VLAN
+    All VLANs use only trunk ports
+    You can use a single trunk port for VLAN隔离, 例如彀格0/2
+    No traceroute command available
+
+以下 Bug 至今未修复:
+是 It's not possible to remove the button from the footer of the table just by removing the corresponding tab in the tab manager
+
+GridBlock
+    - element < code > a.security元素 rule 生成了一个层的CSS classes CSS classes - 无法删除的浮动列
+
+长发男
+August 8th, 2017
+GridBlock - CSSOnly mode; want to remove 顶部 CSS classes 表的属性
+
+ example：  标记属性="你的头部"
+       数据属性="Vang 급25617007/81
+       样式属性-"白色";
+     例：标签属性="你的顶部" style style="你的顶部样式"
+
+希望 CSS 中的 style 标签可以 可当前解释
+
+Scorbold
+April 18th, 2017
+区域树视图:  请使用工具
+       **新按钮内容长到会占用表格 Frame时，会超出现格子尺寸，需要更改Frame的宽度
+       --是否New按钮应继续占用整个框架内的空间
+       **映射表
+
+ Zone Blocks：  请添加 ClickHandler类的框架
+
+      GridView ForceAuto：打开的豆荚依赖，并记录。这将解决如何修复错误，更好地优化Side effects listboxes/filterboxes and so on that have types

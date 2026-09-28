@@ -1,0 +1,3 @@
+隐患类别:照明不足
+隐患描述:打开域中的集装箱，内部照明昏暗，缺乏良好的照明设施，导致工作环境光线不足。
+整改意见:增加至少一台高亮度额灯，确保集装箱内部有足够的照明； Regular inspection and maintenance of lighting equipment to ensure it operates efficiently.

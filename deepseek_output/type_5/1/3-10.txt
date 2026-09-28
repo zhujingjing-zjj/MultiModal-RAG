@@ -1,0 +1,2 @@
+基础身志检查工作细 SO 00础人 /认5度 一G 1000 minds ,然 最 :文本Input'
+print(ff_output)

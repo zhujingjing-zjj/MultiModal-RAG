@@ -1,0 +1,3 @@
+隐患类别:现场防护栏等安全防护设施缺失、破损或设置不规范
+隐患描述:混凝土块等工程物块头盔与地面接触处未设置符合标准的防护设施，工人作业时存在坠落风险。
+整改意见: Areas around concrete blocks and semi-ponderous=['Z hovering element']['Zapp:**]

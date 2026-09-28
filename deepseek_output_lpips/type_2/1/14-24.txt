@@ -1,0 +1,3 @@
+隐患类别:不符合'三级配电两级漏电保护，一机一闸一漏一箱'要求
+隐患描述:配电箱周围未Properly separated from other potential hazards and is not clearly marked or protected.
+整改意见:按照标准实施'三级配电两级漏电保护，一机一闸一漏一箱'的配置，确保每台设备都有独立的开关保护系统的接地。同时，在配电箱附近应设置清晰的标识和防护措施，并检查连接线路的 integrity。

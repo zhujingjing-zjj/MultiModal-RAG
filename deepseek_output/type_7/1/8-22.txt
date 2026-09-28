@@ -1,0 +1,19 @@
+1.  hazard_category: '未按规定穿戴反光安全服'
+hazard_description: '图片显示一名施工人员未佩戴反光安全服，之间存在安全隐患。'
+correction_of_hazard: '要求所有施工人员必须穿戴符合标准的反光安全服，以确保在使用机械设备或进行高空作业时的安全。'
+2.  hazard_category: '设备安全防护设施、装置缺失或失效'
+hazard_description: '挖掘设备的防护罩不明显，可能存在损坏或缺失。'
+correction_of_hazard: '对设备进行年度维护和检查，确保所有安全防护装置完好无损并立即修复损坏部位。'
+3.  hazard_category: '应急设施缺失'
+hazard_description: '图片中未显示明显的灭火器或其他应急设施。'
+correction_of_hazard: '配备足够的灭火器并定期检查系统，确保其可用性，并教育工人如何使用。'
+4.  hazard_category: '安全标志标识缺失或设置不规范'
+hazard_description: '施工区域内可见标志缺失或设置不规范。'
+correction_of_hazard: '设置清晰、醒目的安全标志，包括危险区域警告、紧急出口标志、 helmet zones 和 fire extinguisher zones，确保所有工人都能看到并且理解和遵循这些标志。
+5.  hazard_category: '分配电线未遵循等因素。'
+6.  hazard_category: '设备安全防护设施、装置缺失或失效。'
+hazard_description: '挖掘设备的防护罩不完整或损坏，可能存在设施缺失或失效。'
+correction_of_hazard: '对设备进行定期检查和维护，确保所有安全防护装置、例如刀片盖、扶手或其他保护措施都正常运作。如发现任何损坏或缺失，必须立即修复或更换。
+7.  hazard_category: '设备安全防护措施不足'
+hazard_description: '挖掘设备周围没有足够的防护措施，如护档或警示标志。'
+correction_of_hazard: '设置足够的围挡、护档和其他织物 mourn and consider wearing a helmet for personal safety.

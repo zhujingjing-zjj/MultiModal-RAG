@@ -1,0 +1,3 @@
+隐患类别:不符合'三级配电两级漏电保护、一机一闸一漏一箱'要求
+隐患描述:图中三级箱内存在多插座和多个漏电开关开关现象，违反了一机一闸污染保护原则。
+整改意见： immediately remove all unauthorized devices and ensure each machine is connected to its respective漏电开关。同时，检查并确保所有漏电开关的型号匹配， conformity with '三级配电两级漏电保护、一机一闸一漏一箱' requirements。

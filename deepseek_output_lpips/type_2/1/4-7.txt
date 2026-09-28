@@ -1,0 +1,4 @@
+隐患类别: wiring installation on the side
+Insufficient grounding
+Improper connection between wires
+Explanation: The wires on the side are not properly grounded. A single tap can be caused if any of the wires are damaged. A proper wire path should be מנח réussit

@@ -1,0 +1,3 @@
+隐患类别:配电箱未及时锁闭
+隐患描述:图片中可能包含配电箱，但 unclear if 其处于锁闭状态。
+整改意见: Management should ensure that all electrical panels are locked before leaving the site to prevent unauthorized access and vandalism.

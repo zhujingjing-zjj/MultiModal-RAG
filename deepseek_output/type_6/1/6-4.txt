@@ -1,0 +1,6 @@
+ hazard category:未按规定穿戴反光安全服
+hazard description:图片中未见人员穿戴反光安全服，经检查图片内场工作人员未Checks方法
+code comment:未臺get去文 text.
+code comment:text failed code to failed.
+提示:未能识别图片内容。
+代码生成时失败，请 review the given image.

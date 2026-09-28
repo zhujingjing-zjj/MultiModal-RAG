@@ -1,0 +1,3 @@
+隐患类别: 配电箱未及时锁闭  
+隐患描述: 图片中可见红色的配电箱未关闭，处于开放状态，未经锁闭可能存在短路、触电等潜在风险。  
+整改意见: 的大型电气设备未及时关闭柜门，可能存在 thermodynamic 或 electrical safety issues。 Cathodic protection (CP) should be implemented on pipelines to minimize corrosion.

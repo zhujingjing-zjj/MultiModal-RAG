@@ -1,0 +1,3 @@
+隐患类别:動力線用料規範
+隐患描述:動力線磐查未Show今日差異
+整改意見:動力線磐查需按Requirements應 Standards執行

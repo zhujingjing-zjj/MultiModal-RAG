@@ -1,0 +1,3 @@
+隐患类别:未按规定穿戴反光安全服
+隐患描述: workers are not wearing the required high-visibility safety vests as specified by safety regulations.
+整改意见: enforce and remind all workers to wear the provided high-visibility safety vests while on the job site.

@@ -1,0 +1,3 @@
+隐患类别:配电箱未及时锁闭
+隐患描述: outstanding door
+整改意见:安装完成必须及时锁闭配电箱门，以防ellectrical shock or fire hazard

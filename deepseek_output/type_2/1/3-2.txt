@@ -1,0 +1,3 @@
+隐患类别:不符合'三级配电两级漏电保护、一机一闸一漏一箱'要求
+隐患描述:配电箱 lacked proper signage and was improperly placed.此外，箱门锁 mechanism seemed faulty or non-functional.
+整改意见:配电箱内的漏电开关和电气元件必须符合国家建筑规范，所有电路必须两侧分离。此外，配电箱应加装一张电气安全警告标志。

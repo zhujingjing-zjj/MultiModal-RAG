@@ -1,0 +1,5 @@
+隐患类别: 起重吊装设备钢丝绳磨损、断丝严重，搭接长度不足
+
+隐患描述: 图片中可以看到相信规则的钢丝绳 twisted， Side of the twist and slide several layers down to the left.
+
+整改意见: 需要立即更换磨损点和断丝部分，确保钢丝绳的断裂部分不露出，并厂家地

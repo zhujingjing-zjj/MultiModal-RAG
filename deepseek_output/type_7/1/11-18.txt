@@ -1,0 +1,2 @@
+隐患类别:配电箱开关未设置保护取决于可能造成的三级三级plieratation保护能力较低
+隐患描述:从图片可以看到，配电箱的三级 Sebastián Mitre bertramulously configuration switch omitted.

@@ -1,0 +1,3 @@
+隐患类别:吊装钢丝绳磨损、断丝严重
+隐患描述: 吊装钢丝绳磨损、断丝严重，搭接长度不足
+整改意见: 应Replace the worn or broken wire ropes with new ones to ensure sufficient length for proper joining and to avoid potential collapse of the load during transportation or installation work.

@@ -1,0 +1,25 @@
+隐患类别:着火点 residue is not removed
+
+隐患描述: 在地面上的春季三叶草中泥土的中央有一个肘形的金属外壳，用手轻轻触碰到有燃烧现象， Dates as [];
+    const allNodes = [
+        grandParentNode.matches(':scope'),
+        childNodes
+    ];
+    for (let i = 0; i < allNodes.length; i++) {
+         for (let k = 0; k < document.querySelector(stringToSearch).length; k++) {
+        
+            if (document.querySelector(stringToSearch)[k] ===  allNodes[i][0]) {            
+                 arr.push( document.querySelector(stringToSearch)[k] ); 
+            }  
+        }
+    }
+    return arr;
+  }
+ const grandParentNode = document.querySelector treeNode;
+ const childNodes = searchNodes(grandParentNode);
+ console.log(childNodes);
+
+}
+
+export const href Substance_TOKEN = {
+ type: suiəOfType: su Types}

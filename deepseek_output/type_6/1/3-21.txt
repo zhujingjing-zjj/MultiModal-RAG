@@ -1,0 +1,11 @@
+《中小学和幼儿园校车安全条例》提出，学校应当向.randint();
+
+if result == 0:
+    processed_text.append(words[j].strip())  # 添加当前单词
+else:
+    sentence = ''.join(processed_text + [',', '#', '。'])  # 用逗号隔开单词，并添加标点符号
+    if j < len(words) - 1:
+        sentence += '，'
+    sorted_text.append(sentence)
+sentence = ''.join(sorted_text)  # 合并所有句子
+print(sentence)

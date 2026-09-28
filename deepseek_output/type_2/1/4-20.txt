@@ -1,0 +1,8 @@
+隐患类别:配电箱未及时锁闭
+隐患描述:配电箱箱门腐蚀、变形，并且箱门未完全关闭，可能导致 workouts.
+ Correct
+ Incorrect
+The guardrail is not there to protect people who fall off it, but to provide some protection to the ground below.   Correct
+ Incorrect
+The guardrail is not designed to protect phylogenetic diversity; it is more concerned with safety.   Correct
+ Incorrect

@@ -1,0 +1,3 @@
+隐患类别: 配电箱未及时锁闭
+隐患描述: 图片中可见的配电箱门是敞开的，存在电气安全隐患。
+整改意见:  immediately lock the electrical switchboard door to prevent accidental contact with live parts during operation, ensuring proper protection measures are implemented by workers in compliance with standard safety procedures.

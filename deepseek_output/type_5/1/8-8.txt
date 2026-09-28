@@ -1,0 +1,5 @@
+隐患类别: 汽车吊、随车吊、泵车支腿未全部伸出、未垫枕木进行作业
+
+隐患描述: 车吊 Schmidtfake remediation eks deck became worries rose module.
+
+整改意见: 汽车吊应确保支腿全部伸出，并且使用枕木或其他支撑设备，以确保在工作的过程中稳定安全。

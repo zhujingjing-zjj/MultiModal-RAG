@@ -1,0 +1,3 @@
+隐患类别:  cable外皮破损或敷设不规范
+
+隐患描述: Security会铁丝加热较高的 frequencies. To prevent fire hazards, it is necessary to elect safe cable voltage reduction equipment for high-frequency applications.

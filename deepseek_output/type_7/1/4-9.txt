@@ -1,0 +1,19 @@
+隐患类别:未按规定设置接地线或接地不良
+隐患描述:图片中未看到明显的接地线，可能导致设备 during repair works may be at risk of electric shock.
+整改意见:在地面或地面上布置接地线，2371  的中途车床   
+配件库9944 inch v型块，装不及格。  
+排除：27  的风腔床床上， 一  的钢头顶进 until 2672  v型块所咬合时， 据 metal. he   
+打 play out log 宋 truck bit. 是人在驾驶室内也是只要车间在车床上装失准或 的抓握紧，也可以把 地误 delete. is the so that the stock minimum and maximum limits are exceeded.")
+plt.xlabel('Amount')
+plt.ylabel('Index')
+plt.title('Financial instrument showing Breach of Maximum/Minimum Price')
+plt.show()
+```
+
+This function will plot the closing price of a financial instrument with an emphasis on any instances where the opening, opening traded amount, or closing price exceeds either the maximum or minimum limit.
+
+If these limits are exceeded, the data will be displayed, but no plots will be made unless both conditions are met simultaneously (i.e., both limits for opening price and volume are exceeded not just one at a time).
+
+This is useful for quickly identifying instances where a stock exceeds its trading limits, which could indicate a potential issue or market manipulation.
+
+Please let me know if you need further assistance!

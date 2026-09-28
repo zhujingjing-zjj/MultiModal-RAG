@@ -1,0 +1,3 @@
+隐患类别:不符合'三级配电两级漏电保护、一机一闸一漏一箱'要求
+隐患描述:配电箱内私拉乱接，多条电线 connections and lack of proper labeling
+整改意见:立即断开私拉乱接的电线，重新按照'三级配电两级漏电保护、一机一闸一漏一箱'的标准进行 wiring。 installation, ensure proper labeling, and conduct regular inspection and maintenance to prevent future electrical hazards

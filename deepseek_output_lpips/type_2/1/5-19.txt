@@ -1,0 +1,15 @@
+隐患类别:配电箱未及时锁闭
+隐患描述:配电箱门处于敞开状态，容易导致触电风险或其他安全事故的处理。
+
+整改意见:配电箱门需安装锁闭装置，并定期检查确保其处于关闭状态，高度重要性Parameter');
+console.log(data);
+for (const key in data) {
+    console.log(`Key: ${key}, Values: ${JSON.stringify(data[key])}`);
+}
+
+console.log(d);
+generalArray.push(d);
+
+console.log(generalArray);
+chnik(' brilliance哈哈是这只传说中的 confer')
+for设置的物体的那个人类大脑是最复杂的

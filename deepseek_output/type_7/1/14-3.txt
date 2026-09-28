@@ -1,0 +1,2 @@
+隐患类别: 配电箱未及时锁闭  
+隐患描述: 图片中显示的红色配电箱未明确是否已经锁闭，该状态可能导致设备失 Accessible and increasing the power of the machine. If there isn't a lock on it, someone could accidentally turn it on and cause damage, injury, or even death.

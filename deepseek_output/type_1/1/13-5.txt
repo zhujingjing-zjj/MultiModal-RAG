@@ -1,0 +1,3 @@
+隐患类别:未按规定设置接地线或接地不良
+隐患描述:Fire extinguisher box without visible grounding cables or connections.
+整改意见:Install and secure visible grounding cables or connections to the fire extinguisher box as per safety regulations, and ensure they are securely connected.

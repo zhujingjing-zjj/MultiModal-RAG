@@ -1,0 +1,3 @@
+隐患类别:梯次防护
+隐患描述:现场最近的梯子可能缺乏有效的梯次防护，导致高空作业人员存在坠落风险。
+整改意见: requirements to increase the availability of safety harnesses and consider additional measures for ladder safety, such as securing them properly and providing necessary support or Guard rails.

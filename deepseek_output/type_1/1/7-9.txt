@@ -1,0 +1,3 @@
+根据施工工地图片，最明显的隐患类别为：电缆外皮破损。 cable外皮破损
+隐患描述：电缆外皮在施工过程中出现击穿或磨损，存在导致短路或电击的危险。
+整改意见：立即更换这些电缆，电气设备全部停下使用，确保施工安全的电缆。 immediate replacement of the affected cables, With all electrical equipment halt while using safety certified cables.

@@ -1,0 +1,6 @@
+隐患类别:不符合'三级配电两级漏电保护、一机一闸一漏一箱'要求
+隐患描述:图片中的配电箱未显示清晰的安全保护状态及是否符合 Procedure 1
+Fire extinguishers strictly prohibited. 
+-Keep all documents in the card provided.
+- Fire extinguisher valves"
+I hope this helps!

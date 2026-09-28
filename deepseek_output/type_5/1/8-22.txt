@@ -1,0 +1,12 @@
+隐患类别: "0未按规定的等级配置灭火器 
+
+.description
+img
+
+img
+
+img
+
+Learn how to use img tags properly: https://help.elements.ai/faq
+
+What are the basic elements of an image tag in HTML5?| Elements summary| attributes

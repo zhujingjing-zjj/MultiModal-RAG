@@ -1,0 +1,3 @@
+隐患类别:配电箱未及时锁闭
+隐患描述:图片中的配电箱没有扎带锁闭，可能存在 electrical potential hazards。
+整改意见:房间停机后，请及时关闭电源Distribution box Romn for12Hypothesisortating .l

@@ -1,0 +1,3 @@
+隐患类别:未按规定设置接地线或接地不良
+隐患描述: Worker Electric welding without ground line support, posing risk of electric shock and equipment damage.
+整改意见: Ensure proper grounding of equipment during welding, using the correct ground line and securing it to a suitable earthing point. Regular inspection and maintenance of grounding connections to ensure their integrity.

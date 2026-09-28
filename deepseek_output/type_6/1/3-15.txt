@@ -1,0 +1,3 @@
+隐患类别: 高处作业未正确使用安全带
+隐患描述: 图片中未显示任何人员佩戴安全上下行电梯。至少应在在高处作业时正确使用安全绳、安全带等个人防护装备，以防止 Falls。
+整改意见: 现场应 Strictly Enforce Safety Regulations by Providing Proper Personal Protective Equipment (PPE) 至 All Workers in OST Programs。并且应 Conduct Regular Safety Training Sessions to Ensure SAFETY First Culture Among All Staff Members。

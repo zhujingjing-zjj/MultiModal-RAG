@@ -1,0 +1,18 @@
+隐患类别:缺失安全警示标志
+隐患描述:在施工工地中，图片中的基坑周围未设置明显、清晰的安全警示标志，提醒工人注意基坑的潜在危险。
+
+整改意见:必须立即 rentals in two parts: first research a_fnueragonole hex)(agonole_show in line
+            '同桌 Write an function that removes a# proxy (quoted) by checking if there are characters in front of and after a # before it has been changed into leftArrow. 
+
+Example:
+Function call: removeConsole_Proxy("123#123", "leftArrow")
+Function returns: "123#123"
+
+Reasoning:
+1. Split the input string into an array of characters.
+2. Traverse through each character, looking for occurrence of '#'.
+3. If an '#' is found and is preceded and followed by characters that aren't '#', remove it. 
+4. Convert the array back into a string and return it.
+5. Modify the input string to look for '#', and if found, perform adding on top.
+6. If a character isn't ahead in this modified string, add it as it is.
+7. Return the final string which has characters added or removed accordingly.

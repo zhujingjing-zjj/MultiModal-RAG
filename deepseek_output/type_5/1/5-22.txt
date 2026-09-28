@@ -1,0 +1,3 @@
+隐患类别: 配电箱未及时锁闭
+隐患描述: 图片中可见某些设备的配电箱未完成锁闭处理，可能导致潜在的安全隐患。
+整改意见:  disobedience missing password'. Connector_detailsParking lot connector

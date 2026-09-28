@@ -1,0 +1,91 @@
+隐患类别:未按规定配置灭火器、消防设施等  
+隐患描述:图片中配电箱门板没有保持关闭状态，容易存在发生电气火灾或漏电风险');
+
+
+
+function today() {
+    var date = new Date();
+    var day = date.getDate();
+    var month = date.getMonth() + 1;
+    var year = date.getFullYear();
+    return day + '-' + month + '-' + year;
+}
+
+function setOpenMenu(dataArray) {
+    data = dataArray;
+    
+    handleMenuTable(data);
+}
+
+function handleMenuTable(data) {
+    x = document.getElementById('menu');
+    y = 10;
+    for (var j = 0; j < data.length; j++) {
+        m =  data[j].length;
+        n = (m+20)/85;
+        a = data[j][0].replace("\\(/g");
+
+   function doesExist(user) {
+      return userprofile.exists(user.email);
+    }
+
+    async function handleAddNewUser(user) {
+      try {
+        const isUserExistent = await doesExist(user);
+
+        if (isUserExistent) {
+          createMessageExemple(user);
+          setCtaMhUser(uname, {$0});
+        } else {
+          const data = await createUser(user);
+            createMessageExemple(user);
+          setCtaMhUser(uname, data);
+        }
+        setVisible();
+      } catch (err) {
+        console.error(err);
+      }
+    }
+
+    async function handleUpdateUser(user) {
+      try {
+        const isUserExistent = await doesExist(user);
+        const data = await findUser(user);
+        
+        if (!isUserExistent) {
+          createMessageExemple(user);
+        } else {
+          const updateduserData = await updateUser(user, data);
+          createMessageExemple(user);
+          setVisible();
+          setEditable(user.find(user => user.userId == updateduserData.userId)[0]._id); 
+        }
+      } catch (err) {
+        console.error(err);
+      }
+    }
+
+    async function handleDeleteUser(userId) {
+      try {
+        const data = await deleteUser(userId);
+        createMessageExemple(user);
+        setVisible();
+      } catch (err) {
+        console.log(err);
+      }
+    }
+
+    function createMessageExemple(user) {
+      createMessage(user, 'green');
+    }
+
+    async function handleAddNewUser2(user) {
+      try {
+        setOpenUserModal();
+      } catch (err) {} 
+
+      createMessageExemple(user);
+    }
+ </script>
+```禅出这个错误
+ please help me

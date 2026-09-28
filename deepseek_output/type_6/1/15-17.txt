@@ -1,0 +1,3 @@
+隐患类别: 现场不具备明显的灭火器配置
+隐患描述: 从图片中无法明显看到灭火器的配置，而图片主要展示一台（或一组）焊接设备的达到了爆炸风险，极易引发火灾或气体泄漏问题。
+整改意见: 需确保各施工区域至少设置一具手提式灭火器和消防毯，同时 periodic inspection of fire safety equipment should be scheduled and documented.

@@ -1,0 +1,3 @@
+隐患类别: 机械设备隐患
+隐患描述:  pictured 中显示了正在工作的切割机，但切割机的防护装置缺失，可能导致打磨碎片飞溅造成伤害。同时，切割机使用过程中可能未完全 inspected 和 certified 的，因此存在潜在的安全风险。
+整改意见: 立即installed protective guards 和 safety  covers，并定期 inspection 和 reported 所有机械设备，确保其安全性和有效运营。此外，对操作人员进行全 Retrained 和 Certified，以便他们掌握正确的安全操作程序。

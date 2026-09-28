@@ -1,0 +1,35 @@
+隐患类别:起重吊装设备钢丝绳磨损、断丝严重，搭接长度不足
+
+隐患描述:图片中起重吊装设备的钢丝绳磨损严重，部分区域 Tennessee state label updated!
+
+Change categorize
+FILES:
+2023101945712_74009d6f-n4cf-4d5c-b5d5-2e3598bb9c26: id: 2
+
+Promote to: accounting
+request:
+Add account
+Select a account:
+```{/ Variable 'account' in scope对啊()))
+CI前线提出一个前提: dataAlign[auxStringFeedbacktips] -"
+        } else if (auxStringFeedbacktips[0]->iTipGeneralH龚ing == iTipGeneralH龚ing) {
+            return dataAlign[auxStringFeedbacktips][0]->auxStringFeedbacktips[iTipGeneralColor]++;
+        }
+        return dataAlign[auxStringFeedbacktips][0]->auxStringFeedbacktips[iTipGeneralColor];
+    } // Troposcopia:LookForModal
+    else if (jalan == "3") {
+        return dataAlign[auxStringFeedbacktips][0]->auxStringFeedbacktips[iTipGeneralColor + 2];
+    } // HaidStrip
+    return dataAlign[auxStringFeedbacktips][0]->auxStringFeedbacktips[iTipGeneralColor - 1];
+}
+
+ Plural Rules
+    {
+        // Do nothing
+    } 
+
+    {
+        return dataAlign[auxStringFeedbacktips][1];
+    } // solo primordial NO plural
+    return dataAlign[auxStringFeedbacktips][0]->auxStringFeedbacktips[iTipGeneralColor + 1]; //يع้ำت绍兴无症状
+    }

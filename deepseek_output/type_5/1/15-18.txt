@@ -1,0 +1,10 @@
+隐患类别:未按规定设置接地线或接地不良
+隐患描述:图片中看到线缆长时间浸泡在 토 );
+        }
+        break;
+      }
+    }
+  });
+  
+  return (doc as AddonUnits | { [key: string]: unknown }).modules.data.filter((page) => page.is SitePage);
+}

@@ -1,0 +1,5 @@
+隐患类别: 灭火器压力不足
+
+隐患描述: 灭火器上指示刺色的指针指在红色区域，表示压力不足或已经失效。
+
+整改意见: 立即两名人员检查灭火器压力表，若发现压力不足，fill using appropriate CO2 cylinders or nitrogen cylinders，并在24小时内更换此灭火器。
